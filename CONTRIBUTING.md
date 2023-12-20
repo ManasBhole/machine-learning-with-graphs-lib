@@ -1,10 +1,10 @@
-# Contributing to Machine Learning with Graphs
+  # Contributing to Machine Learning with Graphs
 
 We are thrilled that you are interested in contributing to the Machine Learning with Graphs package! This project aims to provide a comprehensive suite of graph-based machine learning algorithms, and contributions from the community are essential for its success.
 
 ## Code of Conduct
 
-By participating in this project, you are expected to uphold this code of conduct. Please report unacceptable behavior to [susheelg1107@gmail.com], [parikshiturs837@gmail.com].
+By participating in this project, you are expected to uphold this code of conduct. Please report unacceptable behavior to [susheelg1107@gmail.com], [parikshiturs837@gmail.com], [manasbhole2000@gmail.com].
 
 ## How Can I Contribute?
 
